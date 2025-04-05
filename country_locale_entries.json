@@ -1,0 +1,32 @@
+[
+  {
+    "entry": {
+      "title": "Poland - pl_PL",
+      "country": "Poland",
+      "locale": "pl_PL",
+      "language": "Polish",
+      "region": "PL",
+      "date_format": "DD/MM/YYYY"
+    }
+  },
+  {
+    "entry": {
+      "title": "Sweden - sw_SE",
+      "country": "Sweden",
+      "locale": "sw_SE",
+      "language": "Swedish",
+      "region": "SE",
+      "date_format": "DD/MM/YYYY"
+    }
+  },
+  {
+    "entry": {
+      "title": "UK - eng_GB",
+      "country": "UK",
+      "locale": "eng_GB",
+      "language": "English",
+      "region": "GB",
+      "date_format": "DD/MM/YYYY"
+    }
+  }
+]
