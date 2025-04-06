@@ -1,0 +1,9 @@
+README.md
+setup.py
+countrygen/__main__.py
+countrygen.egg-info/PKG-INFO
+countrygen.egg-info/SOURCES.txt
+countrygen.egg-info/dependency_links.txt
+countrygen.egg-info/entry_points.txt
+countrygen.egg-info/requires.txt
+countrygen.egg-info/top_level.txt
