@@ -1,21 +1,16 @@
-# Country & Locale Generator
+# countrygen CLI
 
-A Python script that reads an Excel file with country and locale data, and outputs:
-- A JSON file for use in CMS platforms like Contentstack
-- Extensible to output TypeScript config
+Generate JSON and TypeScript config files from an Excel list of countries and locales.
 
-## Usage
+## Install locally
+```
+pip install .
+```
 
-1. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-2. Place `countries_example.xlsx` in the same folder.
-
-3. Run the script:
-   ```
-   python generate_from_excel.py
-   ```
-
-4. Output: `country_locale_entries.json`
+## Use the CLI
+```
+countrygen --json         # JSON only
+countrygen --ts           # TypeScript only
+countrygen                # Both
+countrygen --input path/to/your.xlsx
+```

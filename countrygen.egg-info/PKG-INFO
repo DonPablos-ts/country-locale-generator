@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: countrygen
+Version: 1.0.0
+Summary: Country & Locale Configuration Generator
+Author: YourName
+Requires-Python: >=3.6
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

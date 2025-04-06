@@ -1,0 +1,2 @@
+[console_scripts]
+countrygen = countrygen.__main__:main
