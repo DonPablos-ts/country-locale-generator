@@ -21,6 +21,16 @@
   },
   {
     "entry": {
+      "title": "Germany - de_DE",
+      "country": "Germany",
+      "locale": "de_DE",
+      "language": "German",
+      "region": "DE",
+      "date_format": "DD/MM/YYYY"
+    }
+  },
+  {
+    "entry": {
       "title": "UK - eng_GB",
       "country": "UK",
       "locale": "eng_GB",

@@ -17,13 +17,15 @@ def main():
     language_map = {
         'pl': 'Polish',
         'sw': 'Swedish',
-        'eng': 'English'
+        'eng': 'English',
+        'de': 'German'
     }
 
     date_format_map = {
         'PL': 'DD/MM/YYYY',
         'SE': 'DD/MM/YYYY',
-        'GB': 'DD/MM/YYYY'
+        'GB': 'DD/MM/YYYY',
+        'DE': 'DD/MM/YYYY'
     }
 
     df = pd.read_excel(args.input)
